@@ -1,0 +1,26 @@
+div {
+    margin: 20px 10px;
+    font-size: 3rem;
+}
+
+button {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+    font-size: 2rem;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+#main {
+    background-color: white;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+body {
+    background: grey;
+}
